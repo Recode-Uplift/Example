@@ -7,10 +7,12 @@
   background-color: #000000; 
   color: #FFFFFF; 
   border-radius: 20px;
+  curser: pointer;
 }
 
 #clickerButton {
   font-size: 15px; 
   background-color: #007BFF; 
   color: #000000; 
+  curser: pointer;
 }
